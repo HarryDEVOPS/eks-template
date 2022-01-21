@@ -1,0 +1,2 @@
+# eks-template
+Example Project
